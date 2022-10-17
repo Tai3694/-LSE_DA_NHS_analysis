@@ -1,7 +1,7 @@
 # LSE_DA_NHS_analysis
 This is analysing NHS data 
 
-Markup :  ## Summary - Assignment 2: ##
+# Summary - Assignment 2
 How many locations are there in the data set? 
 Within in the dataset there are 106 locations for England.
 
