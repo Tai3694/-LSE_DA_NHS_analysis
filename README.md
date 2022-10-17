@@ -40,3 +40,7 @@ The data collected from Twitter relating to the NHS and medicine can be importan
 Overall, by using this insight the approach in using Twitter can be enhanced. For example, I looked at the most frequent tweets. The first figure shows the tags with a count greater than 10. This gives a vase array of common tags to use. Yet, to see this more clearly, I created a bar plot showing the count for each of the most common tags used. The most common being healthcare. Given this, using these specific tags could be utilised in the future when trying to learn things about customer behaviours, important topics or even promote NHS or health programmes to reach individuals. For instance, using this tag to encourage people to receive the vaccination for COVID-19. 
 
 # Summary - Assignment 6
+*	Notice that monthly capacity utilisation fluctuates over time. Meaning in some months, the NHS reach the full potential in completing the most appointments possible. Whilst in other months, this isn’t the case. Therefore this could, suggest employing more staff. 
+*	Healthcare professional types do not really differ over time. Generally, we see that GP’s are the most popular 
+*	The most common mode of appointment is face-to-face but this is closely followed by telephone call appointments. 
+*	Typically, appointments are booked and attended within the same day, suggesting if there was more staff as well, we can continue to meet this daily demand of appointments. 
