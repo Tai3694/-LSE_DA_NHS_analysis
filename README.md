@@ -30,9 +30,13 @@ Able to see that the total number of records per month are on average quite simi
 * Focusing on the graph on service setting across the time period, we find that General Practice to be the most popular. This was seen highlighted before when looking at the data itself.
 * Looking at the different services across seasons, General practices are most used. This holds of importance, as the use of General practices and popularity is repeatedly found. However, the use of this service fluctuates daily.
 
-
 # Summary - Assignment 5
+The data collected from Twitter relating to the NHS and medicine can be important. You can combine the lessons learned and see their commonalities by viewing 
+* All of the top Tweets from a given month in one location
+* In your best-performing Tweets, look for trends relating to specific topics.
+* When and how often do people interact with your Tweets
+* Monitor key topics or subjects
 
-
+Overall, by using this insight the approach in using Twitter can be enhanced. For example, I looked at the most frequent tweets. The first figure shows the tags with a count greater than 10. This gives a vase array of common tags to use. Yet, to see this more clearly, I created a bar plot showing the count for each of the most common tags used. The most common being healthcare. Given this, using these specific tags could be utilised in the future when trying to learn things about customer behaviours, important topics or even promote NHS or health programmes to reach individuals. For instance, using this tag to encourage people to receive the vaccination for COVID-19. 
 
 # Summary - Assignment 6
